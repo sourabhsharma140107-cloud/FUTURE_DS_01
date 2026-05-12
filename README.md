@@ -6,7 +6,7 @@
 
 ## 🖼️ Dashboard Preview
 
-![Superstore Sales Analysis Dashboard](dashboard_preview.png)
+![Superstore Sales Analysis Dashboard](dashboard.png)
 
 ---
 
