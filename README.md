@@ -111,7 +111,7 @@ Monitor seasonal trends in Ship Mode to optimize logistics and reduce shipping c
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/yourusername/superstore-sales-dashboard.git
+   git clone https://github.com/sourabhsharma140107-cloud/superstore-sales-dashboard.git
    ```
 2. Open `Superstore_Dashboard.pbix` in **Power BI Desktop**
 3. Refresh data if needed by pointing to `sample.csv`
