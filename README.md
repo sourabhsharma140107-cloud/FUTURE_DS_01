@@ -97,11 +97,11 @@ Monitor seasonal trends in Ship Mode to optimize logistics and reduce shipping c
 ## 📁 Repository Structure
 
 ```
-📦 superstore-sales-dashboard
- ┣ 📊 Superstore_Dashboard.pbix        # Power BI Dashboard file
- ┣ 📄 Superstore_Sales_Analysis_Report.docx  # Full analysis report
+📦 FUTURE_DS_01
+ ┣ 📊POWER BI DASHBOARD.pbix        # Power BI Dashboard file
+ ┣ 📄 REPORT Task 1.pdf  # Full analysis report
  ┣ 📄 sample.csv                       # Dataset used
- ┣ 🖼️ dashboard_preview.png            # Dashboard screenshot
+ ┣ 🖼️dashboard.png            # Dashboard screenshot
  ┗ 📄 README.md                        # Project documentation
 ```
 
@@ -113,7 +113,7 @@ Monitor seasonal trends in Ship Mode to optimize logistics and reduce shipping c
    ```bash
    git clone https://github.com/sourabhsharma140107-cloud/superstore-sales-dashboard.git
    ```
-2. Open `Superstore_Dashboard.pbix` in **Power BI Desktop**
+2. Open `POWER BI DASHBOARD.pbix` in **Power BI Desktop**
 3. Refresh data if needed by pointing to `sample.csv`
 4. Explore the interactive dashboard!
 
